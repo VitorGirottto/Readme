@@ -95,7 +95,7 @@ Basta copiar e colar no seu `README.md`!
 
 1. Copie qualquer trecho acima.  
 2. Cole no seu `README.md` de perfil ou outro projeto.  
-3. Substitua `VitorGirottto` pelo seu nome de usuário (caso esteja usando outro).  
+3. Substitua `VitorGirottto` pelo seu nome de usuário.  
 4. Pronto!
 
 </div>
