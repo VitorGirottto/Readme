@@ -69,8 +69,7 @@ Basta copiar e colar no seu `README.md`!
 <div align="center">
 
 > ⚠️ Requer configuração com GitHub Actions:  
-> https://github.com/Platane/snk
-
+![snake gif](https://github.com/VitorGirottto/Readme/blob/output/github-contribution-grid-snake.svg)
 <br/>
 
 <img src="https://github.com/VitorGirottto/VitorGirottto/blob/output/github-contribution-grid-snake.svg"/>
