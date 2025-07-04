@@ -1,4 +1,4 @@
-# 🧩 Readname — Componentes para README de Perfil GitHub
+# 🧩 Readme — Componentes para README de Perfil GitHub
 
 <div align="center">
 
